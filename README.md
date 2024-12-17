@@ -36,5 +36,5 @@ El objetivo es crear un sistema modular y escalable que permita gestionar microc
 
 1. **Clonar el repositorio:**  
    ```bash
-   git clone https://github.com/tu_usuario/ranokau.git
+   git clone https://github.com/eduardosinning/ranokau.git
    cd ranokau
